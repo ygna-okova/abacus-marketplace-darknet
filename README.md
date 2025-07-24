@@ -84,4 +84,6 @@ Remember, prioritize security when using darknet platforms. Utilize verified **A
 
 
 
-Update:  07/21/2025
+
+
+Update: url is now clickable and functioning
